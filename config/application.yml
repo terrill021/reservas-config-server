@@ -2,4 +2,4 @@
 spring:
   cloud:
     config:
-      uri: http://localhost:3000
+      uri: http://localhost:3000/eureka/
