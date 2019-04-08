@@ -3,7 +3,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:3000/eureka/
-lucky-world: cdesdf
+lucky-world: ceiba
 ---
 spring:
   profiles: sentence
