@@ -3,7 +3,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:3000/eureka/
-lucky-world: ceiba Dev
+lucky-world: ceiba Devfest
 
 ---
 spring:
